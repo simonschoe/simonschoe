@@ -8,11 +8,8 @@
   <a href= "https://www.linkedin.com/in/simon-schoelzel/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/linkedin.png"/>
   </a>
-  <a href= "https://www.bryanjenks.dev">
+  <a href= "https://simonschoelzel.rbind.io/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/geography.png"/>
-  </a>
-  <a href="https://simonschoelzel.rbind.io/">
-    <img src="https://img.icons8.com/material-outlined/30/689d6a/cafe.png"/>
   </a>
   <a href="https://simonschoelzel.rbind.io/resume/">
     <img src="https://img.icons8.com/material-outlined/30/689d6a/parse-from-clipboard.png"/>
